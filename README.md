@@ -1,2 +1,0 @@
-# LTWeb1
-HoangVanGiang
